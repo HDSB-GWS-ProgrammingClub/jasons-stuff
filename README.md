@@ -10,6 +10,7 @@ It's worse than Notepad instead of better
 ## Version updates:
 **Notepad-- third edition**
 - Coming soon
+- Release date: 18/02/2021 11:30AM
 
 **Notepad-- 2.0**
 - More inconvenience when you try to close the app
