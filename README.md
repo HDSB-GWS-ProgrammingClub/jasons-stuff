@@ -5,10 +5,8 @@
 To open this, unzip the .zip file and open the .app file\
 Github won't let me add a .app file unzipped
 
-## What is this?
-This is like Notepad++, but instead of plus, it's minus. 
-
-## What's the difference?
+## What is this? & What's the difference?
+This is like Notepad++, but instead of plus, it's minus.\
 It's worse than Notepad instead of better
 
 ## Version updates:
