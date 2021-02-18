@@ -15,7 +15,7 @@ It's worse than Notepad instead of better
 - Bientôt disponible
 - Date de sotrie à determiner
 - Nouvelle meilleure interface utilisateur
-- A l'air meilleure
+- Ça a l'air meilleure
 - La même fonctionnalité comme le third edition
 
 **Notepad-- third edition**
