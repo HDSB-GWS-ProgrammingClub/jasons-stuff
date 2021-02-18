@@ -9,7 +9,7 @@ It's worse than Notepad instead of better
 
 ## Version updates:
 **Notepad-- third edition**
--Coming soon
+- Coming soon
 
 **Notepad-- 2.0**
 - More inconvenience when you try to close the app
