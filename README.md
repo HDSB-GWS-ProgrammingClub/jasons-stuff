@@ -11,11 +11,12 @@ It's worse than Notepad instead of better
 
 ## Version updates:
 **Notepad-- la quatrième édition**
-- Coming soon
-- Release date TBD
-- New better UI
-- Looks better
-- Same functionality as Notepad-- third edition
+- New language capability (french only)
+- Bientôt disponible
+- Date de sotrie à determiner
+- Nouvelle meilleure interface utilisateur
+- A l'air meilleure
+- La même fonctionnalité comme le third edition
 
 **Notepad-- third edition**
 - Coming soon
