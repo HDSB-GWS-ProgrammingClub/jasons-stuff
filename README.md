@@ -2,7 +2,7 @@
 **Made by Jason**
 
 ## Attention Apple Fanboys like myself
-To open this, unzip the .zip file and open the .app file
+To open this, unzip the .zip file and open the .app file\
 Github won't let me add a .app file unzipped
 
 ## What is this?
