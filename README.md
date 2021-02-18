@@ -1,4 +1,5 @@
 # Notepad--
+**Made by Jason**
 
 ## What is this?
 This is like Notepad++, but instead of plus, it's minus. 
