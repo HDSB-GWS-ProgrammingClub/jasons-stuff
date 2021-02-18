@@ -1,6 +1,10 @@
 # Notepad--
 **Made by Jason**
 
+## Attention Apple Fanboys like myself
+To open this, unzip the .zip file and open the .app file
+Github won't let me add a .app file unzipped
+
 ## What is this?
 This is like Notepad++, but instead of plus, it's minus. 
 
