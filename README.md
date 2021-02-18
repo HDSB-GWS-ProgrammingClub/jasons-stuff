@@ -10,6 +10,13 @@ This is like Notepad++, but instead of plus, it's minus.\
 It's worse than Notepad instead of better
 
 ## Version updates:
+**Notepad-- la quatrième édition**
+- Coming soon
+- Release date TBD
+- New better UI
+- Looks better
+- Same functionality as Notepad-- third edition
+
 **Notepad-- third edition**
 - Coming soon
 - Release date: 18/02/2021 11:30AM
