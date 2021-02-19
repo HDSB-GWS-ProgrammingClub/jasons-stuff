@@ -19,8 +19,8 @@ It's worse than Notepad instead of better
 - La même fonctionnalité comme le third edition
 
 **Notepad-- third edition**
-- Coming soon
-- Release date: 18/02/2021 11:30AM
+- More inconvenience when you try to print/clear
+- Slightly more inconvenience when you try to close the app
 
 **Notepad-- 2.0**
 - More inconvenience when you try to close the app
