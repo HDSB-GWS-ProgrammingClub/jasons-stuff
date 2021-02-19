@@ -28,4 +28,4 @@ It's worse than Notepad instead of better
 
 **Notepad-- version1**
 - Original version of Notepad--
-- (.exe and .app not availble, .py only)
+- (.exe and .app not available, .py only)
