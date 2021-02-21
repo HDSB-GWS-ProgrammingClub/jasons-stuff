@@ -1,7 +1,7 @@
 # Notepad--
 **Made by Jason**
 
-## Attention gamers who use Windows
+## Attention gamers (and everyone else) who use Windows
 If you are using Notepad-- 5.0, follow these instructions (very important):
 1. Download .zip file and unzip
 2. **IMPORTANT** MAKE SURE THAT THE "Notepad-- 5.0.exe" FILE AND THE "Azure-ttk-theme-main" FOLDER ARE TOGETHER, DO NOT SEPARATE
@@ -10,7 +10,7 @@ If you are using Notepad-- 5.0, follow these instructions (very important):
 5. Run exe file normally
 6. DO NOT SEPARATE
 
-## Attention Apple Fanboys such as myself
+## Attention Apple Fanboys (and other Mac users) such as myself
 Because of Apple's great security system, I am not a verified developer for Apple therefore there are some extra steps you need to take to open this:
 1. Download .zip file and unzip
 2. **Right click** on .app file and click Open (opening this file normally will not work)
