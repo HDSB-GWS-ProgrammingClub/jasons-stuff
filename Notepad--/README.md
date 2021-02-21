@@ -1,10 +1,6 @@
 # Notepad--
 **Made by Jason**
 
-**Notepad-- 3.1 edition**
-- Coming out later today (Feb 19 2021)
-- Bug fixes
-
 ## Attention Apple Fanboys like myself
 To open this, unzip the .zip file and open the .app file\
 Github won't let me add a .app file unzipped
@@ -15,20 +11,14 @@ It's worse than Notepad instead of better
 
 ## Version updates:
 
-**Notepad-- 5.0**
-- Retour à l'anglais
-- Coming soon
-- Release date TBD
-- Removed print/clear confusion for less inconvenience
-
-**Notepad-- la quatrième édition**
-- New language capability (french only)
-- Bientôt disponible
-- Date de sotrie à determiner
-- Nouvelle meilleure interface utilisateur
-- Ça a l'air meilleure
-- La même fonctionnalité comme le third edition
-- Éliminé l'incapacité de fermer l'appli pour moins d'inconvénient
+**Notepad-- 5.0 (Final Version)**
+- New language capability (English & French)/Nouvelle capacité linguistique (anglais et français)
+- Coming soon/Bientôt disponible
+- Release date Feb 21 2021/Date de sotrie 21 févr 2021
+- New better UI/Nouvelle meilleure interface utilisateur
+- It looks better/Ça a l'air meilleure
+- Removed print/clear button switching/Éliminé le changement des boutons d'imprimer et d'éliminer
+- Removed inability to close application for less inconvenience/Éliminé l'incapacité de fermer l'appli pour moins d'inconvénient
 
 **Notepad-- third edition**
 - More inconvenience when you try to print/clear
