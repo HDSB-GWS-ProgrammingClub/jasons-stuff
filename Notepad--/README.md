@@ -4,8 +4,11 @@
 ## Attention gamers who use Windows
 If you are using Notepad-- 5.0, follow these instructions (very important):
 1. Download .zip file and unzip
-2. **IMPORTANT** MAKE SURE THE EXE FILE AND THE "Azure-ttk-theme-main" FOLDER ARE TOGETHER, DO NOT SEPARATE
-3. Run exe file normally
+2. **IMPORTANT** MAKE SURE THAT THE "Notepad-- 5.0.exe" FILE AND THE "Azure-ttk-theme-main" FOLDER ARE TOGETHER, DO NOT SEPARATE
+3. IF THOSE TWO FILES ARE SEPARATED, IT WILL NOT WORK
+4. DO NOT SEPARATE
+5. Run exe file normally
+6. DO NOT SEPARATE
 
 ## Attention Apple Fanboys such as myself
 Because of Apple's great security system, I am not a verified developer for Apple therefore there are some extra steps you need to take to open this:
