@@ -20,6 +20,13 @@ It's worse than Notepad instead of better
 - Removed print/clear button switching/Éliminé le changement des boutons d'imprimer et d'éliminer
 - Removed inability to close application for less inconvenience/Éliminé l'incapacité de fermer l'appli pour moins d'inconvénient
 
+**Notepad-- quatrième édition**
+- Cancelled to work on final version of Notepad--
+
+**Notepad-- third edition (3.1)**
+- Release cancelled to work on final version of Notepad--
+- Originally included bug fixes
+
 **Notepad-- third edition**
 - More inconvenience when you try to print/clear
 - Slightly more inconvenience when you try to close the app
