@@ -20,7 +20,6 @@ It's worse than Notepad instead of better
 ## Version updates:
 
 **Notepad-- 5.0 (Final Version)**
-- Released only for Mac for the time being due to certain issues, Windows edition should be released soon
 - New language capability (English & French)/Nouvelle capacité linguistique (anglais et français)
 - New better UI/Nouvelle meilleure interface utilisateur
 - It looks better/Ça a l'air meilleure
