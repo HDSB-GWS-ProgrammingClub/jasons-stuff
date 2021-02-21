@@ -1,6 +1,18 @@
 # Notepad--
 **Made by Jason**
 
+## Attention gamers who use Windows
+I need help from someone who can use Pyinstaller\
+How do I include other files, not just the .py\
+Because the other files are integral to this app\
+If anyone can help me, dm Jason on discord
+
+## Attention Apple Fanboys such as myself
+Because of Apple's great security system, I am not a verified developer for Apple therefore there are some extra steps you need to take to open this
+1. Download .zip file
+2. **Right click** on .app file and click Open (opening this file normally will not work)
+3. Click Open on the popup
+
 ## What is this?
 This is like Notepad++, but instead of plus, it's minus.\
 It's worse than Notepad instead of better
