@@ -1,7 +1,7 @@
 # Notepad--
 **Made by Jason**
 
-## Attention gamers (and everyone else) who use Windows
+## Attention gamers (and other Windows users)
 If you are using Notepad-- 5.0, follow these instructions (very important):
 1. Download .zip file and unzip
 2. **IMPORTANT** MAKE SURE THAT THE "Notepad-- 5.0.exe" FILE AND THE "Azure-ttk-theme-main" FOLDER ARE TOGETHER, DO NOT SEPARATE
