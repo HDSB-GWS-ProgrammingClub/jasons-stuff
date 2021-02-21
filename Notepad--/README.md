@@ -1,10 +1,6 @@
 # Notepad--
 **Made by Jason**
 
-## Attention Apple Fanboys like myself
-To open this, unzip the .zip file and open the .app file\
-Github won't let me add a .app file unzipped
-
 ## What is this?
 This is like Notepad++, but instead of plus, it's minus.\
 It's worse than Notepad instead of better
@@ -12,9 +8,8 @@ It's worse than Notepad instead of better
 ## Version updates:
 
 **Notepad-- 5.0 (Final Version)**
+- Released only for Mac for the time being due to certain issues, Windows edition should be released soon
 - New language capability (English & French)/Nouvelle capacité linguistique (anglais et français)
-- Coming soon/Bientôt disponible
-- Release date Feb 21 2021/Date de sotrie 21 févr 2021
 - New better UI/Nouvelle meilleure interface utilisateur
 - It looks better/Ça a l'air meilleure
 - Removed print/clear button switching for less inconvenience/Éliminé le changement des boutons d'imprimer et d'éliminer pour moins d'inconvénients
