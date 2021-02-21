@@ -2,14 +2,14 @@
 **Made by Jason**
 
 ## Attention gamers who use Windows
-I need help from someone who can use Pyinstaller\
-How do I include other files, not just the .py\
-Because the other files are integral to this app\
-If anyone can help me, dm Jason on discord
+If you are using Notepad-- 5.0, follow these instructions (very important):
+1. Download .zip file and unzip
+2. **IMPORTANT** MAKE SURE THE EXE FILE AND THE "Azure-ttk-theme-main" FOLDER ARE TOGETHER, DO NOT SEPARATE
+3. Run exe file normally
 
 ## Attention Apple Fanboys such as myself
 Because of Apple's great security system, I am not a verified developer for Apple therefore there are some extra steps you need to take to open this:
-1. Download .zip file
+1. Download .zip file and unzip
 2. **Right click** on .app file and click Open (opening this file normally will not work)
 3. Click Open on the popup
 
