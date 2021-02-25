@@ -10,7 +10,7 @@ It's worse than Notepad instead of better
 **BSCode**
 - Notepad-- 6.0 renamed to BSCode
 - Can run Python
-- Unzip BSCode.zip file, run BSCode.py, do not take files out of folder
+- Unzip BSCode.zip file, run BSCode.py, do not separate folder
 - (.exe and .app not available)
 
 **Notepad-- 5.0 (Final Version)**
@@ -21,7 +21,7 @@ It's worse than Notepad instead of better
 - Removed inability to close application for less inconvenience/Éliminé l'incapacité de fermer l'appli pour moins d'inconvénients
 - Less inconvenience overall/Moins d'inconvénients l'ensemble
 - **Important:**
-- If you are using Windows, do not separate "Notepad-- 5.0.exe" and the "Azure-ttk-theme-main" folder after unzip
+- If you are using Windows, do not separate files in folder
 
 **Notepad-- quatrième édition**
 - Cancelled to work on final version of Notepad--
