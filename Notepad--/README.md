@@ -21,7 +21,7 @@ It's worse than Notepad instead of better
 - Removed inability to close application for less inconvenience/Éliminé l'incapacité de fermer l'appli pour moins d'inconvénients
 - Less inconvenience overall/Moins d'inconvénients l'ensemble
 - **Important:**
-- If you are using Windows, follow these instructions, do not separate "Notepad-- 5.0.exe" and the "Azure-ttk-theme-main" folder
+- If you are using Windows, do not separate "Notepad-- 5.0.exe" and the "Azure-ttk-theme-main" folder after unzip
 
 **Notepad-- quatrième édition**
 - Cancelled to work on final version of Notepad--
