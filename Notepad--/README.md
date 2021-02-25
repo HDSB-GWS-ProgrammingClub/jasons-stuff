@@ -1,12 +1,6 @@
 # Notepad--
 **Made by Jason**
 
-## Attention Apple Fanboys (and other Mac users) such as myself
-Because of Apple's great security system, there's extra steps you need to take to run something random you downloaded from the internet:
-1. Download .zip file and unzip
-2. **Right click** on .app file and click Open (opening this file normally will not work)
-3. Click Open on the popup
-
 ## What is this?
 This is like Notepad++, but instead of plus, it's minus.\
 It's worse than Notepad instead of better
@@ -17,6 +11,7 @@ It's worse than Notepad instead of better
 - Notepad-- 6.0 renamed to BSCode
 - Can run Python
 - Unzip BSCode.zip file, run BSCode.py, do not take files out of folder
+- (.exe and .app not available)
 
 **Notepad-- 5.0 (Final Version)**
 - New language capability (English & French)/Nouvelle capacité linguistique (anglais et français)
