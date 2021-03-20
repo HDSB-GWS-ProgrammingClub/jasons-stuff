@@ -10,7 +10,8 @@ It's worse than Notepad instead of better
 **BSCode**
 - Notepad-- 6.0 renamed to BSCode
 - Can run Python
-- Unzip BSCode.zip file, run BSCode.py, do not separate folder
+- Unzip BSCode.zip file, run BSCode.py, do not separate files in folder
+- **NEW** Added support for light mode
 - (.exe and .app not available)
 
 **Notepad-- 5.0 (Final Version)**
