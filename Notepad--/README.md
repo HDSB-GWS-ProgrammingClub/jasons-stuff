@@ -7,7 +7,14 @@ It's worse than Notepad instead of better
 
 ## Version updates:
 
-**BSCode**
+**BSCode Rewritten**
+- New version of BSCode
+- Major bug fixes
+- Fixed most problems from original BSCode
+- Condensed into one .py file
+- Removed light mode
+
+**BSCode (old)**
 - Notepad-- 6.0 renamed to BSCode
 - Can run Python
 - Unzip BSCode.zip file, run BSCode.py, do not separate files in folder
