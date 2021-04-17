@@ -6,7 +6,7 @@ import subprocess
 import os
 import platform
 import webbrowser
-from pynput.keyboard import Key, Controller
+import keyboard
 
 
 
@@ -25,8 +25,6 @@ root.winfo_screenwidth()
 root.configure(bg='#464646')
 s.configure("Title.TLabel", font=('*', 25), padding=10)
 s.configure("Subtitle.TLabel", font=('*', 17), padding=10)
-
-keyboard = Controller()
 
 compilers = {
     '.py': 'python3',
@@ -94,15 +92,23 @@ def key_press(event):
 
     if str(event.char) == '(':
         textInput.insert(INSERT, ')')
-        keyboard.press(Key.left)
+        keyboard.press_and_release('left')
+
+    if str(event.char) == '[':
+        textInput.insert(INSERT, ']')
+        keyboard.press_and_release('left')
+
+    if str(event.char) == '{':
+        textInput.insert(INSERT, '}')
+        keyboard.press_and_release('left')
 
     if str(event.char) == '\'':
         textInput.insert(INSERT, '\'')
-        keyboard.press(Key.left)
+        keyboard.press_and_release('left')
 
     if str(event.char) == '"':
         textInput.insert(INSERT, '"')
-        keyboard.press(Key.left)
+        keyboard.press_and_release('left')
 
     checkIsSaved()
 
