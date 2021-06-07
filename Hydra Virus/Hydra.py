@@ -1,29 +1,27 @@
 from tkinter import *
 
-root = Tk()
-root.geometry('300x300')
-root.title("Hydra Virus")
 
-hydraLabel = Label(root, text='Cut off one head and two more will take its place')
-hydraLabel.pack()
+class Hydra(Tk):
+    def __init__(self):
+        super().__init__()
 
-def newWindow():
-    global root
-    root = Tk()
-    root.geometry('300x300')
-    root.title("Hydra Virus")
-    hydraLabel = Label(root, text='Cut off one head and two more will take its place')
-    hydraLabel.pack()
+        self.geometry('300x300')
+        self.title("Hydra Virus")
 
-    root.protocol("WM_DELETE_WINDOW", on_closing)
+        self.hydraLabel = Label(self, text='Cut off one head and two more will take its place')
+        self.hydraLabel.pack()
 
-def on_closing():
-    root.destroy()
+        self.protocol("WM_DELETE_WINDOW", self.on_closing)
 
-    newWindow()
-    newWindow()
+    def on_closing(self):
+        self.destroy()
+        new1 = Hydra()
+        new2 = Hydra()
+        new1.mainloop()
+        new2.mainloop()
 
-root.protocol("WM_DELETE_WINDOW", on_closing)
+        
 
 
-root.mainloop()
+new = Hydra()
+new.mainloop()
